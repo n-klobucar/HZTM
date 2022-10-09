@@ -390,3 +390,290 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
 console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1659296611277	geckodriver	INFO	Listening on 127.0.0.1:50083
+1659296611280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46443" "-no-remote" "-profile" "/tmp/rust_mozprofileUTxwvh"
+*** You are running in headless mode.
+1659296611577	Marionette	INFO	Marionette enabled
+1659296611580	Marionette	INFO	Listening on port 36199
+WebDriver BiDi listening on ws://localhost:46443
+1659296611682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUTxwvh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46443/devtools/browser/22e5511e-88cf-48dd-93d3-6f136e85b783
+1659301371987	geckodriver	INFO	Listening on 127.0.0.1:53903
+1659301372489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56271" "-no-remote" "-profile" "/tmp/rust_mozprofileDLuX7k"
+*** You are running in headless mode.
+1659301372901	Marionette	INFO	Marionette enabled
+1659301372904	Marionette	INFO	Listening on port 33561
+WebDriver BiDi listening on ws://localhost:56271
+1659301373109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDLuX7k/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56271/devtools/browser/27119862-ce07-4331-adc1-77daee182ceb
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659306362384	Marionette	INFO	Stopped listening on port 36199
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665305774680	geckodriver	INFO	Listening on 127.0.0.1:50207
+1665305774683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42215" "-no-remote" "-profile" "/tmp/rust_mozprofile8H0rsQ"
+*** You are running in headless mode.
+1665305774992	Marionette	INFO	Marionette enabled
+1665305774995	Marionette	INFO	Listening on port 40523
+WebDriver BiDi listening on ws://127.0.0.1:42215
+1665305775188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8H0rsQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42215/devtools/browser/e26e252e-42e7-4a63-9e14-59ff2caf1705
+1665305852304	geckodriver	INFO	Listening on 127.0.0.1:38585
+1665305852306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45425" "-no-remote" "-profile" "/tmp/rust_mozprofilextDP2i"
+*** You are running in headless mode.
+1665305852619	Marionette	INFO	Marionette enabled
+1665305852621	Marionette	INFO	Listening on port 33827
+WebDriver BiDi listening on ws://127.0.0.1:45425
+1665305852808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilextDP2i/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45425/devtools/browser/a9ad647b-7a32-4667-aa18-2b83b9d9058e
+1665305991982	geckodriver	INFO	Listening on 127.0.0.1:42983
+1665305991986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60989" "-no-remote" "-profile" "/tmp/rust_mozprofilevqj57f"
+*** You are running in headless mode.
+1665305992292	Marionette	INFO	Marionette enabled
+1665305992294	Marionette	INFO	Listening on port 42093
+WebDriver BiDi listening on ws://127.0.0.1:60989
+1665305992475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevqj57f/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60989/devtools/browser/355b71cc-771e-499b-9ad0-248612ce137e
+1665306015846	geckodriver	INFO	Listening on 127.0.0.1:57903
+1665306015849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46983" "-no-remote" "-profile" "/tmp/rust_mozprofile5x9R19"
+*** You are running in headless mode.
+1665306016166	Marionette	INFO	Marionette enabled
+1665306016168	Marionette	INFO	Listening on port 38623
+WebDriver BiDi listening on ws://127.0.0.1:46983
+1665306016284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5x9R19/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46983/devtools/browser/f3f145a9-815a-49df-8dd8-ab7d87bfbdc0
+1665306039510	geckodriver	INFO	Listening on 127.0.0.1:52345
+1665306039513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48187" "-no-remote" "-profile" "/tmp/rust_mozprofile2B6EZn"
+*** You are running in headless mode.
+1665306039825	Marionette	INFO	Marionette enabled
+1665306039828	Marionette	INFO	Listening on port 37501
+WebDriver BiDi listening on ws://127.0.0.1:48187
+1665306040025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2B6EZn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48187/devtools/browser/cca03b77-d7af-4f22-a7a2-f768cc16b7b0
+1665306085790	geckodriver	INFO	Listening on 127.0.0.1:48317
+1665306085793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50969" "-no-remote" "-profile" "/tmp/rust_mozprofileP2Kw3f"
+*** You are running in headless mode.
+1665306086126	Marionette	INFO	Marionette enabled
+1665306086128	Marionette	INFO	Listening on port 36909
+WebDriver BiDi listening on ws://127.0.0.1:50969
+1665306086226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP2Kw3f/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50969/devtools/browser/cc726d3d-03ae-416d-9c41-c4d65fd40b1e
+1665306171748	geckodriver	INFO	Listening on 127.0.0.1:41035
+1665306171751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33383" "-no-remote" "-profile" "/tmp/rust_mozprofileHlCpew"
+*** You are running in headless mode.
+1665306172050	Marionette	INFO	Marionette enabled
+1665306172052	Marionette	INFO	Listening on port 40671
+WebDriver BiDi listening on ws://127.0.0.1:33383
+1665306172238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHlCpew/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33383/devtools/browser/efc7715e-a9a7-4f73-a8ec-459c0a733fc8
+1665306215756	geckodriver	INFO	Listening on 127.0.0.1:51783
+1665306215759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "53735" "-no-remote" "-profile" "/tmp/rust_mozprofilenDcMly"
+*** You are running in headless mode.
+1665306216058	Marionette	INFO	Marionette enabled
+1665306216061	Marionette	INFO	Listening on port 45565
+WebDriver BiDi listening on ws://127.0.0.1:53735
+1665306216243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenDcMly/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53735/devtools/browser/e646a4df-dffd-4d22-b52d-94f12bfa48a2
+1665307019059	geckodriver	INFO	Listening on 127.0.0.1:44989
+1665307019062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "51997" "-no-remote" "-profile" "/tmp/rust_mozprofileFn4gLi"
+*** You are running in headless mode.
+1665307019496	Marionette	INFO	Marionette enabled
+1665307019498	Marionette	INFO	Listening on port 34751
+WebDriver BiDi listening on ws://127.0.0.1:51997
+1665307019622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFn4gLi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:51997/devtools/browser/3d8f8867-e338-487e-a06b-8d3855cc6792
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307025052	Marionette	INFO	Stopped listening on port 34751
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665307048035	geckodriver	INFO	Listening on 127.0.0.1:35341
+1665307048038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44007" "-no-remote" "-profile" "/tmp/rust_mozprofileKkEELv"
+*** You are running in headless mode.
+1665307048471	Marionette	INFO	Marionette enabled
+1665307048473	Marionette	INFO	Listening on port 37247
+WebDriver BiDi listening on ws://127.0.0.1:44007
+1665307048646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKkEELv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44007/devtools/browser/92e02c75-8fdc-41be-99b5-07cf865ee1be
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307052317	Marionette	INFO	Stopped listening on port 37247
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665307085547	geckodriver	INFO	Listening on 127.0.0.1:55333
+1665307085550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47355" "-no-remote" "-profile" "/tmp/rust_mozprofileu38o4E"
+*** You are running in headless mode.
+1665307085951	Marionette	INFO	Marionette enabled
+1665307085954	Marionette	INFO	Listening on port 45213
+WebDriver BiDi listening on ws://127.0.0.1:47355
+1665307086224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu38o4E/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47355/devtools/browser/7dc984cf-dd03-46d8-8c6c-f48024d296f9
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307091263	Marionette	INFO	Stopped listening on port 45213
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665307147091	geckodriver	INFO	Listening on 127.0.0.1:39103
+1665307147093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44547" "-no-remote" "-profile" "/tmp/rust_mozprofileRMatlm"
+*** You are running in headless mode.
+1665307147526	Marionette	INFO	Marionette enabled
+1665307147529	Marionette	INFO	Listening on port 41763
+WebDriver BiDi listening on ws://127.0.0.1:44547
+1665307147664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRMatlm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44547/devtools/browser/53e9c80a-28d1-4192-b37e-efe6e90f2492
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307173378	geckodriver	INFO	Listening on 127.0.0.1:53141
+1665307173381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "38195" "-no-remote" "-profile" "/tmp/rust_mozprofilehboC5R"
+*** You are running in headless mode.
+1665307173811	Marionette	INFO	Marionette enabled
+1665307173814	Marionette	INFO	Listening on port 39685
+WebDriver BiDi listening on ws://127.0.0.1:38195
+1665307173938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehboC5R/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38195/devtools/browser/94d73955-fa4f-4b79-aaf0-ef0f2d48e3b0
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307178010	Marionette	INFO	Stopped listening on port 39685
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665307213921	geckodriver	INFO	Listening on 127.0.0.1:46971
+1665307213925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60923" "-no-remote" "-profile" "/tmp/rust_mozprofileG0vtU5"
+*** You are running in headless mode.
+1665307214356	Marionette	INFO	Marionette enabled
+1665307214358	Marionette	INFO	Listening on port 43655
+WebDriver BiDi listening on ws://127.0.0.1:60923
+1665307214480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG0vtU5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60923/devtools/browser/45c6e4dc-aea8-49bd-b2c4-f175117b63cc
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307242185	geckodriver	INFO	Listening on 127.0.0.1:47103
+1665307242188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55925" "-no-remote" "-profile" "/tmp/rust_mozprofileW1YnoN"
+*** You are running in headless mode.
+1665307242618	Marionette	INFO	Marionette enabled
+1665307242621	Marionette	INFO	Listening on port 37373
+WebDriver BiDi listening on ws://127.0.0.1:55925
+1665307242761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW1YnoN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55925/devtools/browser/41d416e0-9eb3-484e-8168-8cdbe07d2dfa
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307246003	Marionette	INFO	Stopped listening on port 37373
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665307300651	geckodriver	INFO	Listening on 127.0.0.1:37613
+1665307300653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "42137" "-no-remote" "-profile" "/tmp/rust_mozprofile32WjMO"
+*** You are running in headless mode.
+1665307301096	Marionette	INFO	Marionette enabled
+1665307301099	Marionette	INFO	Listening on port 37333
+WebDriver BiDi listening on ws://127.0.0.1:42137
+1665307301244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile32WjMO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42137/devtools/browser/b45ec61b-0456-454f-b0f1-eb867892f6b6
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307308227	Marionette	INFO	Stopped listening on port 37333
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665307538702	geckodriver	INFO	Listening on 127.0.0.1:45561
+1665307538705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33323" "-no-remote" "-profile" "/tmp/rust_mozprofileUQlakO"
+*** You are running in headless mode.
+1665307539140	Marionette	INFO	Marionette enabled
+1665307539142	Marionette	INFO	Listening on port 43145
+WebDriver BiDi listening on ws://127.0.0.1:33323
+1665307539265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUQlakO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33323/devtools/browser/fd315538-8699-4589-a0c2-0d60d5f5ff70
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307545537	Marionette	INFO	Stopped listening on port 43145
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665307587038	geckodriver	INFO	Listening on 127.0.0.1:45489
+1665307587041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49519" "-no-remote" "-profile" "/tmp/rust_mozprofileZv8K7x"
+*** You are running in headless mode.
+1665307587480	Marionette	INFO	Marionette enabled
+1665307587483	Marionette	INFO	Listening on port 41009
+WebDriver BiDi listening on ws://127.0.0.1:49519
+1665307587604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZv8K7x/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49519/devtools/browser/03b5a777-af77-4455-89e1-1708b9be1633
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307591186	Marionette	INFO	Stopped listening on port 41009
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665307598182	geckodriver	INFO	Listening on 127.0.0.1:59993
+1665307598185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39029" "-no-remote" "-profile" "/tmp/rust_mozprofilewejkRR"
+*** You are running in headless mode.
+1665307598599	Marionette	INFO	Marionette enabled
+1665307598601	Marionette	INFO	Listening on port 40967
+WebDriver BiDi listening on ws://127.0.0.1:39029
+1665307598869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewejkRR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39029/devtools/browser/aac3f1a5-d6b8-4d5f-9055-99e13977bcbc
+JavaScript error: https://hztm.hr/zalihe_krvi/, line 894: TypeError: group is undefined
+1665307601862	Marionette	INFO	Stopped listening on port 40967
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
